@@ -1,0 +1,25 @@
+---
+title: Definitions
+author: "Adam Smith"
+output: html_document
+---
+
+***
+
+#### Description 
+This app shows something something something something   
+
+More details about this app
+
+***
+
+#### Definitions 
+
+
+Value | Definition
+------------------------------------------|------------------------------------------
+**Value1:**| Definition of the first variable
+**Value2:** |Definition of the second variable
+**Value3:** |Definition of the third variable
+**And so on** |And so on...
+
